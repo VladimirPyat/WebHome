@@ -1,0 +1,33 @@
+
+h1 {
+  margin: 0;
+  font-size: 110%
+}
+h2, p {
+  margin: 0;
+}
+.section {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+
+.card {
+  width: 70%;
+  
+  border: .5px solid black;
+  padding: 30px;
+  background-color: papayawhip;
+  margin-bottom: 30 px;
+}
+
+.desc {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.list {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
